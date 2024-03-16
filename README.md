@@ -19,7 +19,20 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+``````
+def swap(a,b):
+    t=a
+    a=b
+    b=t
+    return a,b
+a=input()
+b=input()
+a,b=swap(a,b)
+print("Swapped values are: {} {}".format(a,b))
+``````
 
+## OUTPUT:
+![alt text](swap.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
