@@ -1,4 +1,4 @@
-# Swapping-two-values
+# EX01 Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -35,7 +35,7 @@ print("Swapped values are: {} {}".format(a,b))
 ![alt text](swap.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
